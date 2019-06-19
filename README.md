@@ -2,7 +2,9 @@
 
 ## Description
 
-Decentralized and P2P technology has gotten really popular, but it's still mostly in the realm of nerds and cryptocurrency buffs. However, the distributed web is actually a lot easier to work with that you might expect. Dat is a P2P protocol that makes it easy to share and update files over a Peer To Peer network. What's more, people can create websites with it directly from a web browser.
+The current state of the web is giant silos of data from giant corporations that don't care about your privacy. Creating something on your own terms means hosting hardware, learning "back end" programming, and all sorts of barriers to entry.
+
+Luckily, decentralized and P2P technology has gotten really popular. The distributed web is actually a lot easier to work with that you might expect, and doesn't require any "back end" experience. Dat is a P2P protocol that makes it easy to share and update files over a Peer To Peer network. What's more, people can create websites with it directly from a web browser.
 
 This workshop will walk people through publishing their first P2P website using [Dat](https://dat.foundation/) and some retro-feeling HTML. Bring your laptop or phone and expect garrish colors, obnoxious GIFs, and the `<marquee>` element.
 
